@@ -7,10 +7,17 @@ public class Start {
 		System.out.println("talk dirty to me");
 		System.out.println("i dont understand");
 		System.out.println("");
+		System.out.println("");
+		
+		
 		
 		int toast = 90;
 		double bacon = 7.89;
 		String breakfast;
+		
+		if(toast == 90){
+			return bacon;
+		}
 	}
 
 }
