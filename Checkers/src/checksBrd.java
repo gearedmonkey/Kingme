@@ -12,6 +12,7 @@ public class checksBrd {
 	
 	
 	public checksBrd() {
+		outline.setVisible(true);
 		JPanel Board = new JPanel();
 		duck.add(Board, JLayeredPane.DEFAULT_LAYER);
 		outline = new JFrame("Game");

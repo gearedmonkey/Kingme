@@ -1,8 +1,8 @@
 package src;
 
-import javax.swing.JFrame;
 
-public class Start extends JFrame {
+
+public class Start {
 	
 
 	
@@ -12,6 +12,8 @@ public class Start extends JFrame {
 		// TODO Auto-generated method stub
 	
 		checksBrd tofu = new checksBrd();
+		
+		
 	}
 
 }
