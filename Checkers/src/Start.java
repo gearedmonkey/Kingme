@@ -1,8 +1,8 @@
 package src;
 
-import javax.swing.JFrame;
 
-public class Start extends JFrame {
+
+public class Start {
 	
 
 	
@@ -13,6 +13,8 @@ public class Start extends JFrame {
 
 		
 		checksBrd tofu = new checksBrd();
+		
+		
 	}
 
 }
