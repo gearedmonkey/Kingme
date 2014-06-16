@@ -6,7 +6,7 @@ public class Start {
 		// TODO Auto-generated method stub
 		System.out.println("talk dirty to me");
 		System.out.println("i dont understand");
-		System.out.println("TEST");
+		System.out.println("");
 	}
 
 }
