@@ -15,9 +15,7 @@ public class Start {
 		double bacon = 7.89;
 		String breakfast;
 		
-		if(toast == 90){
-			return bacon;
-		}
+
 	}
 
 }
